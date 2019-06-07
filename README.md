@@ -4,6 +4,17 @@ Image Classification is performed on CIFAR-10 dataset with both Categorical Cros
 
 Focal Loss is perfomed with two sets of values: 
 
-1. alpha = 0.25,gamma=2.
+#### alpha = 0.25,gamma=2.
+![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/loss_gamma2_alpha0.25.png)
+###### Training Loss  
 
 ![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/accuracy_gamma2_alpha0.25.png)
+###### Training Accuracy
+
+
+#### alpha = 1,gamma=0.
+![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/loss_gamma0_alpha1.png)
+###### Training Loss  
+
+![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/accuracy_gamma0_alpha1.png)
+###### Training Accuracy
