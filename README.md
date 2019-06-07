@@ -6,8 +6,7 @@ Focal Loss is perfomed with two sets of values:
 
 #### alpha = 0.25,gamma=2.
 
-![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-  classification/master/Image%20Classification/loss_gamma2_alpha0.25.png)
-
+![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/loss_gamma2_alpha0.25.png)
 
 ![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/accuracy_gamma2_alpha0.25.png)
 
