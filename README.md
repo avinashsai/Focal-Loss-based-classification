@@ -11,7 +11,6 @@ Focal Loss is perfomed with two sets of values:
 ![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/accuracy_gamma2_alpha0.25.png)
 ###### Training Accuracy
 
-
 #### alpha = 1,gamma=0.
 ![alt text](https://raw.githubusercontent.com/avinashsai/Focal-Loss-based-classification/master/Image%20Classification/loss_gamma0_alpha1.png)
 ###### Training Loss  
